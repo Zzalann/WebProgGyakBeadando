@@ -18,10 +18,10 @@ Feladatok:
 
 - [ ] Legyen benne egyedi CSS kód, de lehet használni alapnak CSS keretrendszert is, pld: Bootstrap.
 
-- [ ] Legyen az egyik oldalon egy táblázat, amiben legalább 25 sor és 7 oszlop legyen.
+- [x] Legyen az egyik oldalon egy táblázat, amiben legalább 25 sor és 7 oszlop legyen.
 
-- [ ] Legyen az egyik oldalon egy űrlap, amit ki tudnak tölteni a látogatók, legalább 5 beviteli mezővel.
+- [x] Legyen az egyik oldalon egy űrlap, amit ki tudnak tölteni a látogatók, legalább 5 beviteli mezővel.
 
-- [ ] Legyen egyedi JS kód készítve az oldalhoz, ami ellenőrzi az űrlapon bevitt adatok helyességét. Legyen az űrlap minden mezője kötelező és a szöveges mezők legalább 10 karaktert kérjenek be. Ellenőrizzük a bekért email címeket is.
+- [x] Legyen egyedi JS kód készítve az oldalhoz, ami ellenőrzi az űrlapon bevitt adatok helyességét. Legyen az űrlap minden mezője kötelező és a szöveges mezők legalább 10 karaktert kérjenek be. Ellenőrizzük a bekért email címeket is.
 
 - [ ] A feladatot egy Github repo-ban kell benyújtani a mellékelt táblázat kitöltésével.

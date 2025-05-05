@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tech Blog - Kapcsolat</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="kapcsolat.css">
+    <script src="ellenorzes.js" defer></script>
 </head>
 
 <body>
@@ -19,15 +20,69 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Főoldal</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="index.html">Főoldal</a></li>
                     <li class="nav-item"><a class="nav-link" href="galeria.html">Galéria</a></li>
                     <li class="nav-item"><a class="nav-link" href="tablazat.html">Táblázat</a></li>
-                    <li class="nav-item"><a class="nav-link active" href="kapcsolat.html">Kapcsolat</a></li>
+                    <li class="nav-item"><a class="nav-link" href="kapcsolat.html">Kapcsolat</a></li>
                     <li class="nav-item"><a class="nav-link" href="rolunk.html">Rólunk</a></li>
                 </ul>
             </div>
         </div>
     </nav>
+
+
+
+    <h2>Kapcsolatfelvétel</h2>
+
+    <p>
+        Köszönjük, hogy felkerested a TechBlogot! Szeretnénk hallani rólad, akár kérdésed, észrevételed, vagy javaslatod van.
+        Az alábbi űrlapon keresztül közvetlenül kapcsolatba léphetsz velünk.
+      </p>
+    
+      <!-- Kép 1 -->
+      <img src="img/kapcsolatimg1.jpg" alt="Tech kép 1"><br><br>
+    
+      <form action="mailto:info@techblog.hu" method="post" enctype="text/plain">
+        
+        <label for="name">Teljes név:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+    
+        <label for="email">Email cím:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+    
+        <label for="subject">Tárgy:</label><br>
+        <input type="text" id="subject" name="subject" required><br><br>
+    
+        <label for="category">Üzenet kategóriája:</label><br>
+        <select id="category" name="category" required>
+          <option value="">-- Válassz kategóriát --</option>
+          <option value="kerdes">Kérdés</option>
+          <option value="hiba">Hibajelentés</option>
+          <option value="otlet">Ötlet/javaslat</option>
+          <option value="egyeb">Egyéb</option>
+        </select><br><br>
+    
+        <label for="message">Üzenet:</label><br>
+        <textarea id="message" name="message" rows="6" cols="40" required></textarea><br><br>
+    
+        <input type="submit" value="Küldés">
+      </form>
+    
+      <!-- Kép 2 -->
+      <br><img src="img/kapcsolatimg2.jpg" alt="Tech kép 2"><br><br>
+    
+      <h2>Miért érdemes írni nekünk?</h2>
+      <p>
+        A TechBlog célja, hogy minőségi tech-tartalmat nyújtson. Ha találtál hibát, javaslatod van egy cikkre vagy funkcióra, esetleg együttműködnél velünk, örömmel vesszük a megkeresésed.
+        Minden üzenetet elolvasunk, és válaszolunk rájuk a lehető leghamarabb.
+      </p>
+    
+      <p>
+        Kérlek, légy részletes az üzeneted megfogalmazásánál, hogy pontosan értsük, miben segíthetünk.
+        Ha hibát jelentesz, írd le, milyen eszközön, böngészőn és mikor tapasztaltad. Ezek az információk segítenek nekünk a gyorsabb javításban.
+      </p>
+
+      <img src="img/kapcsolatimg3.jpg" alt="Tech kép 3"><br><br>
 </body>
 
 </html>
