@@ -3,7 +3,7 @@
 Készítői:
 
 - Komlósi András: UA5ECL
-- Rácz Elemér: NEPTUN KÓD
+- Rácz Elemér Roland: GFBQXX
 - Krecsmarik Zalán: B1XTCZ
 
 Feladatok:
