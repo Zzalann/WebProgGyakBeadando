@@ -16,7 +16,7 @@ Feladatok:
 
 - [ ] Minden oldalon legyen legalább 3 kép és annyi szöveg és tartalom, hogy görgetni kelljen.
 
-- [ ] Legyen benne egyedi CSS kód, de lehet használni alapnak CSS keretrendszert is, pld: Bootstrap.
+- [x] Legyen benne egyedi CSS kód, de lehet használni alapnak CSS keretrendszert is, pld: Bootstrap.
 
 - [x] Legyen az egyik oldalon egy táblázat, amiben legalább 25 sor és 7 oszlop legyen.
 
