@@ -18,7 +18,7 @@ Feladatok:
 
 - [ ] Legyen benne egyedi CSS kód, de lehet használni alapnak CSS keretrendszert is, pld: Bootstrap.
 
-- [ ] Legyen az egyik oldalon egy táblázat, amiben legalább 25 sor és 7 oszlop legyen.
+- [x] Legyen az egyik oldalon egy táblázat, amiben legalább 25 sor és 7 oszlop legyen.
 
 - [x] Legyen az egyik oldalon egy űrlap, amit ki tudnak tölteni a látogatók, legalább 5 beviteli mezővel.
 
