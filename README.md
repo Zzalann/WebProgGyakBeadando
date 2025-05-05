@@ -2,7 +2,7 @@
 
 Készítői:
 
-- Komlósi András: NEPTUN KÓD
+- Komlósi András: UA5ECL
 - Rácz Elemér: NEPTUN KÓD
 - Krecsmarik Zalán: B1XTCZ
 
